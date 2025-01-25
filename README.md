@@ -47,6 +47,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-4630-PROJECTS"> ACCTMIS 4630 - Business Systems Application Development </a>
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-3620-PROJECTS"> ACCTMIS 3620 - Foundations of Information Systems </a>
 - <a href="https://github.com/mtwbusiness102/CSE-3241-PROJECTS"> CSE 3241 - Introduction to Database Systems </a>
+- <a href="https://github.com/mtwbusiness102/CSE-3241-PROJECTS"> CSE 3232 - Introduction to Database Systems </a>
 
 ####  University Event Projects 
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> Hack Ohio 12 </a>
