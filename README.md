@@ -43,10 +43,10 @@ Feel free to reach me at mtwbusiness102@outlook.com
 ### Class & Univeristy Event Projects 
 
 #### Class Projects
-- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> ACCTMIS 4630 Projects - Business Systems Application Development </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> ACCTMIS 4630 - Business Systems Application Development </a>
 
 #### University Event Projects 
-- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> ACCTMIS 4630 Projects - Business Systems Application Development </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> Hack Ohio 12 </a>
 
 <div>
 </div>
