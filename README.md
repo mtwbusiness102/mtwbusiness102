@@ -52,7 +52,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 ####  University Event Projects 
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> Hack Ohio 12 </a>
 - <a href="https://github.com/mtwbusiness102/BDAA"> BDAA Data Science Capstone Project </a>
-- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> BuckeyeCTF 2025 </a>
+- <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> BuckeyeCTF 2025 </a>
 
 <div>
 </div>
