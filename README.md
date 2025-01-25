@@ -69,7 +69,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 ### Personal Projects 
 
 </div>
-<!--
+
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Lab </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SOAR Lab </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SIEM Lab </a>
@@ -77,7 +77,6 @@ Feel free to reach me at mtwbusiness102@outlook.com
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Malware Analysis Lab </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Network Analysis Lab </a>
 </div>
--->
 
 
 ### Operating Systems
