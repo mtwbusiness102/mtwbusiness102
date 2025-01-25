@@ -40,7 +40,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 
 
 
-## Class & University Event Projects
+### Class & University Event Projects
 
 #### Class Projects
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-4630-PROJECTS"> ACCTMIS 4630 - Business Systems Application Development </a>
