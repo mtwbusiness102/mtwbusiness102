@@ -40,7 +40,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 
 
 
-## Class & Univeristy Event Projects 
+### Class & Univeristy Event Projects 
 
 #### Class Projects
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> ACCTMIS 4630 - Business Systems Application Development </a>
@@ -64,7 +64,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 </div>
 -->
 
-## Personal Projects 
+### Personal Projects 
 
 </div>
 <!--
@@ -78,7 +78,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 -->
 
 
-## Operating Systems
+### Operating Systems
 <div>
     <img src="https://img.shields.io/badge/-WINDOWS-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-LINUX-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
@@ -86,7 +86,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 </div>
 
 
-## ⚙️ Tools
+### ⚙️ Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Windows PowerShell-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
@@ -95,11 +95,11 @@ Feel free to reach me at mtwbusiness102@outlook.com
 </div>
 
 
-## ⌨️ Programming Languages 
+### ⌨️ Programming Languages 
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 
 
-## ✅ Certifications 
+### ✅ Certifications 
 <div>
     <img src="https://img.shields.io/badge/-SECURITY+-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CCNA-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
