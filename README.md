@@ -32,9 +32,9 @@ Feel free to reach me at mtwbusiness102@outlook.com
 <!-- ### Fun Facts --> 
 
    
-<div>
+
 # 👨🏽‍💻 SKILLS / ACHIEVEMENTS 
-</div>
+
 
 <!-- USE MYDFIR PROJECTS, TAKE SCREENSHOTS, and CREATE DIAGRAMS USING DRAW.IO -->
 
