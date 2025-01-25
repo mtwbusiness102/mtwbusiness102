@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maverickwalker/)](https://github.com/mwbusiness104)
 
 
-### My Background 
+### -- My Background --
 I'm a fourth-year student at The Ohio State University's Max M. Fisher College of Business, pursuing a B.S. degree in Business Information Systems. My interests lie at the intersection of business and technology, with a particular focus in Cybersecurity / IT Risk Consulting, and Network Engineering. I'm driven by a strong desire to build a solid foundation of knowledge and skills to support my career ambitions. I'm eager to expand my network and enthusiastic about discovering the opportunities that lie ahead.
 
 Feel free to reach me at mtwbusiness102@outlook.com
@@ -40,7 +40,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 
 
 
-### Class & University Event Projects
+### -- Class & University Event Projects --
 
 #### Class Projects
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-4630-PROJECTS"> ACCTMIS 4630 - Business Systems Application Development </a>
