@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maverickwalker/)](https://github.com/mwbusiness104)
 
 
-### -- My Background --
+### --- My Background ---
 I'm a fourth-year student at The Ohio State University's Max M. Fisher College of Business, pursuing a B.S. degree in Business Information Systems. My interests lie at the intersection of business and technology, with a particular focus in Cybersecurity / IT Risk Consulting, and Network Engineering. I'm driven by a strong desire to build a solid foundation of knowledge and skills to support my career ambitions. I'm eager to expand my network and enthusiastic about discovering the opportunities that lie ahead.
 
 Feel free to reach me at mtwbusiness102@outlook.com
@@ -41,7 +41,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 
 
 
-### -- Class & University Event Projects --
+### --- Class & University Event Projects ---
 
 #### Class Projects
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-4630-PROJECTS"> ACCTMIS 4630 - Business Systems Application Development </a>
@@ -83,7 +83,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 -->
 
 
-### -- Operating Systems --
+### --- Operating Systems ---
 <div>
     <img src="https://img.shields.io/badge/-WINDOWS-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-LINUX-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
@@ -91,7 +91,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 </div>
 
 
-### -- Tools --
+### --- Tools ---
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Windows PowerShell-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
@@ -100,11 +100,11 @@ Feel free to reach me at mtwbusiness102@outlook.com
 </div>
 
 
-### -- Programming Languages --
+### --- Programming Languages ---
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 
 
-### -- Certifications -- 
+### --- Certifications ---
 <div>
     <img src="https://img.shields.io/badge/-SECURITY+-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CCNA-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
