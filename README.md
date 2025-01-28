@@ -71,6 +71,9 @@ Feel free to reach me at mtwbusiness102@outlook.com
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-3620-PROJECTS"> ACCTMIS 3620 - Foundations of Information Systems </a>
 - <a href="https://github.com/mtwbusiness102/CSE-3241-PROJECTS"> CSE 3241 - Introduction to Database Systems </a>
 - <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECTS"> CSE 3232 - Software Requirements Analysis </a>
+- <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECTS"> CSE 2123 - Data Structures Using Java </a>
+- <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECTS"> CSE 1223 - Introduction to Java Programming </a>
+
 
 
 <!--
@@ -97,15 +100,22 @@ Feel free to reach me at mtwbusiness102@outlook.com
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Windows PowerShell-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Mac OS Terminal-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Tenable Nessus-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Putty-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
 </div>
 
 
 ### --- Programming Languages ---
-<img src="https://img.shields.io/badge/-SQL-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Java-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+<div>
 <img src="https://img.shields.io/badge/-Python-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-SQL-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Java-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Javascript-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+</div>
+
 
 
 ### --- Certifications ---
