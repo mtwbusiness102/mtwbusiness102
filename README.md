@@ -103,7 +103,9 @@ Feel free to reach me at mtwbusiness102@outlook.com
 
 
 ### --- Programming Languages ---
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+<img src="https://img.shields.io/badge/-SQL-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
 
 
 ### --- Certifications ---
