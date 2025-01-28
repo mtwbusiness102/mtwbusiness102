@@ -57,10 +57,18 @@ Feel free to reach me at mtwbusiness102@outlook.com
 </div>
 -->
 
-####  University Event Projects 
-- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> HACK OHI/O 12 </a>
-- <a href="https://github.com/mtwbusiness102/BDAA"> BDAA Data Science Capstone Project </a>
-- <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> BuckeyeCTF 2025 </a>
+####  Personal Projects 
+
+<!--
+
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Lab </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SOAR Lab </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SIEM Lab </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Vulnerability Management Lab </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Malware Analysis Lab </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Network Analysis Lab </a>
+
+-->
 
 
 ####  University Event Projects 
