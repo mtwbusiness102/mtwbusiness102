@@ -119,13 +119,14 @@ Feel free to reach me at mtwbusiness102@outlook.com
 
 
 ### --- Certifications ---
-
+<!--
 <div>
     <img src="https://img.shields.io/badge/-SECURITY+-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CCNA-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MC: Azure Security Enginner Associate-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MC: Azure Network Enginner Associate-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
 </div> 
+-->
 
 
 
