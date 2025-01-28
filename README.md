@@ -109,8 +109,8 @@ Feel free to reach me at mtwbusiness102@outlook.com
 ### --- Programming Languages ---
 <div>
    <img src="https://img.shields.io/badge/-Java-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-Python-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-SQL-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-SQL-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Javascript-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
