@@ -62,7 +62,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> HACK OHI/O 12 </a>
 - <a href="https://github.com/mtwbusiness102/DS-2"> BDAA Data Science Capstone Project </a>
 - <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> BuckeyeCTF 2025 </a>
-- <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> OSU Cybersecurity Club CTF </a>
+- <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> OSU Cybersecurity Club Bootcamp CTF </a>
 
 
 
