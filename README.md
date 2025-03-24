@@ -41,7 +41,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 
 
 
-### --- Class & University Club & Event Projects ---
+### --- Class, University, & Event Projects ---
 
 
 <!-- ####  Personal Projects 
