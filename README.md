@@ -59,9 +59,9 @@ Feel free to reach me at mtwbusiness102@outlook.com
 
 ####  Personal Projects 
 - <a href="google.com"> XXX </a>
-- <a href="https://github.com/mtwbusiness102/DS-2"> XXX </a>
-- <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> XXX </a>
-- <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> XXX </a>
+- <a href="google.com"> XXX </a>
+- <a href="google.com"> XXX </a>
+- <a href="google.com"> XXX </a>
 
 
 ####  University Event Projects 
