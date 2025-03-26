@@ -57,6 +57,12 @@ Feel free to reach me at mtwbusiness102@outlook.com
 
 -->
 
+####  Personal Projects 
+- <a href="google.com"> XXX </a>
+- <a href="https://github.com/mtwbusiness102/DS-2"> XXX </a>
+- <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> XXX </a>
+- <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> XXX </a>
+
 
 ####  University Event Projects 
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> HACK OHI/O 12 </a>
