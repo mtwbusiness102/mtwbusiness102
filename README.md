@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-# MAVERICK WALKER
+# 😄 MAVERICK WALKER
 
 <!-- [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mwbusiness104)](https://github.com/mwbusiness104)
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maverickwalker/)](https://github.com/mwbusiness104) -->
@@ -45,7 +45,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/
 <!-- USE MYDFIR PROJECTS, TAKE SCREENSHOTS, and CREATE DIAGRAMS USING DRAW.IO -->
 
 
-####  Personal Projects 
+###  --- Personal Projects --- 
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SIEM Lab (Cybersecurity) </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Vulnerability Management Lab (Cybersecurity) </a>
 
@@ -58,13 +58,13 @@ https://mtwbusiness102.github.io/Portfolio-Website/
 
 -->
 
-####  University Event Projects 
+###  --- University Event Projects ---  
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> HACK OHI/O 12 </a>
 - <a href="https://github.com/mtwbusiness102/DS-2"> BDAA Data Science Project </a>
 - <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> BuckeyeCTF 2025 </a>
 
 
-#### Class Projects
+### --- Class Projects ---
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-4630-PROJECTS"> ACCTMIS 4630 - Business Systems Application Development </a>
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-3620-PROJECTS"> ACCTMIS 3620 - Foundations of Information Systems </a>
 - <a href="https://github.com/mtwbusiness102/CSE-3241-PROJECTS"> CSE 3241 - Introduction to Database Systems </a>
