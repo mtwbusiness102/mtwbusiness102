@@ -63,18 +63,24 @@ https://mtwbusiness102.github.io/Portfolio-Website/
 
 -->
 
-
-
-
 ####  University Event Projects 
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> HACK OHI/O 12 </a>
 - <a href="https://github.com/mtwbusiness102/DS-2"> BDAA Data Science Project </a>
-<!-- - <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> BuckeyeCTF 2025 </a>
+- <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> BuckeyeCTF 2025 </a>
+
+
+#### Class Projects
+- <a href="https://github.com/mtwbusiness102/ACCTMIS-4630-PROJECTS"> ACCTMIS 4630 - Business Systems Application Development </a>
+- <a href="https://github.com/mtwbusiness102/ACCTMIS-3620-PROJECTS"> ACCTMIS 3620 - Foundations of Information Systems </a>
+- <a href="https://github.com/mtwbusiness102/CSE-3241-PROJECTS"> CSE 3241 - Introduction to Database Systems </a>
+- <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECTS"> CSE 3232 - Software Requirements Analysis </a>
+- <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECTS"> CSE 2123 - Data Structures Using Java </a>
+- <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECTS"> CSE 1223 - Introduction to Java Programming </a>
+
 <!-- - <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> OSU Cybersecurity Club Bootcamp CTF </a>
 
 
 
-<!--
 #### Class Projects
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-4630-PROJECTS"> ACCTMIS 4630 - Business Systems Application Development </a>
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-3620-PROJECTS"> ACCTMIS 3620 - Foundations of Information Systems </a>
@@ -85,7 +91,6 @@ https://mtwbusiness102.github.io/Portfolio-Website/
 
 
 
-<!--
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Lab </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SOAR Lab </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SIEM Lab </a>
@@ -93,7 +98,6 @@ https://mtwbusiness102.github.io/Portfolio-Website/
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Malware Analysis Lab </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Network Analysis Lab </a>
 </div>
--->
 
 
 <!--
@@ -129,14 +133,12 @@ https://mtwbusiness102.github.io/Portfolio-Website/
 
 
 ### --- Certifications ---
-<!--
 <div>
     <img src="https://img.shields.io/badge/-SECURITY+-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CCNA-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MC: Azure Security Enginner Associate-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MC: Azure Network Enginner Associate-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
 </div> 
--->
 
 
 
