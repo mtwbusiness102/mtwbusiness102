@@ -41,7 +41,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 
 
 
-### --- Projects ---
+<!-- ### --- Projects ---
 
 
 <!-- ####  Personal Projects 
