@@ -48,6 +48,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/
 ###  --- Personal Projects --- 
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SIEM Lab </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Vulnerability Management Lab </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SOAR Lab </a>
 
 <!--
 
