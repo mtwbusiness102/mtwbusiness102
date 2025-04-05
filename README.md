@@ -72,7 +72,7 @@ Feel free to reach me at mtwbusiness102@outlook.com
 
 
 
-
+<!--
 #### Class Projects
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-4630-PROJECTS"> ACCTMIS 4630 - Business Systems Application Development </a>
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-3620-PROJECTS"> ACCTMIS 3620 - Foundations of Information Systems </a>
