@@ -64,14 +64,14 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 - <a href="https://github.com/mtwbusiness102/DS-2"> BDAA Data Science Project </a>
 - <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> BuckeyeCTF 2025 </a>
 
-
+<!--
 ### --- Class Projects ---
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-4630-PROJECTS"> ACCTMIS 4630 - Business Systems Application Development </a>
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-3620-PROJECTS"> ACCTMIS 3620 - Foundations of Information Systems </a>
 - <a href="https://github.com/mtwbusiness102/CSE-3241-PROJECTS"> CSE 3241 - Introduction to Database Systems </a>
 - <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECTS"> CSE 3232 - Software Requirements Analysis </a>
 - <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECTS"> CSE 2123 - Data Structures Using Java </a>
-- <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECTS"> CSE 1223 - Introduction to Java Programming </a>
+- <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECTS"> CSE 1223 - Introduction to Java Programming </a> 
 
 <!-- - <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> OSU Cybersecurity Club Bootcamp CTF </a>
 
