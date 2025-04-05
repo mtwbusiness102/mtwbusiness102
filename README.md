@@ -57,11 +57,13 @@ Feel free to reach me at mtwbusiness102@outlook.com
 
 -->
 
+<!-- 
 ####  Personal Projects 
-<!-- - <a href="google.com"> XXX </a>
 - <a href="google.com"> XXX </a>
 - <a href="google.com"> XXX </a>
 - <a href="google.com"> XXX </a>
+- <a href="google.com"> XXX </a>
+-->
 
 
 ####  University Event Projects 
