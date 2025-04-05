@@ -39,15 +39,10 @@ https://mtwbusiness102.github.io/Portfolio-Website/
 
    
 
-# 👨🏽‍💻 SKILLS / ACHIEVEMENTS 
+# 👨🏽‍💻 PROJECTS
 
 
 <!-- USE MYDFIR PROJECTS, TAKE SCREENSHOTS, and CREATE DIAGRAMS USING DRAW.IO -->
-
-
-
-
-### --- Projects ---
 
 
 ####  Personal Projects 
