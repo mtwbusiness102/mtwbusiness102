@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 # MAVERICK WALKER
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mwbusiness104)](https://github.com/mwbusiness104) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maverickwalker/)](https://github.com/mwbusiness104)
+<!-- [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mwbusiness104)](https://github.com/mwbusiness104)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maverickwalker/)](https://github.com/mwbusiness104) -->
 
 
 ### --- My Background ---
