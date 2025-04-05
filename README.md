@@ -51,25 +51,21 @@ https://mtwbusiness102.github.io/Portfolio-Website/
 
 
 ####  Personal Projects 
+- <a href="google.com"> XXX </a>
+- <a href="google.com"> XXX </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SIEM Lab </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Vulnerability Management Lab </a>
 
 <!--
 
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Lab </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SOAR Lab </a>
-- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SIEM Lab </a>
-- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Vulnerability Management Lab </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Malware Analysis Lab </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Network Analysis Lab </a>
 
 -->
 
-<!-- 
-####  Personal Projects 
-- <a href="google.com"> XXX </a>
-- <a href="google.com"> XXX </a>
-- <a href="google.com"> XXX </a>
-- <a href="google.com"> XXX </a>
--->
+
 
 
 ####  University Event Projects 
