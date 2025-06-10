@@ -84,6 +84,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> AZ-700 </a>
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> TryHackMe Certifications </a>
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> HackTheBox Certifications </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CodePath Certifications </a>
 
 
 <!--
