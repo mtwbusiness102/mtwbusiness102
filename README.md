@@ -60,15 +60,30 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 -->
 
 ###  --- Class Projects ---  
-- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> HACK OHI/O 12 </a>
-- <a href="https://github.com/mtwbusiness102/DS-2"> BDAA Data Science Project </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CSE 1223 - Introduction To Java Programming </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CSE 2123 - Data Structures Using Java </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CSE 3232 - Software Requirement Analysis </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CSE 3241 - Introduction To Databases </a>
+- <a href="https://github.com/mtwbusiness102/DS-2"> ACCTMIS 3620 - Foundation of Information Systems </a>
+- <a href="https://github.com/mtwbusiness102/DS-2"> ACCTMIS 4620 - XXX </a>
+- <a href="https://github.com/mtwbusiness102/DS-2"> ACCTMIS 4630 - Business Systems App Development </a>
+- <a href="https://github.com/mtwbusiness102/DS-2"> ACCTMIS 4650 - XXX </a>
 <!-- - <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> BuckeyeCTF 2025 </a> -->
 
 
 ###  --- University Event Projects ---  
-- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> HACK OHI/O 12 </a>
 - <a href="https://github.com/mtwbusiness102/DS-2"> BDAA Data Science Project </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> BuckeyeCTF 2025 </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> Hackathon 2025 </a>
 <!-- - <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> BuckeyeCTF 2025 </a> -->
+
+###  --- Certifications ---  
+- <a href="https://github.com/mtwbusiness102/DS-2"> Security+ </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CCNA </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> AZ-500 </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> AZ-700 </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> TryHackMe Certifications </a>
+- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> HackTheBox Certifications </a>
 
 
 <!--
