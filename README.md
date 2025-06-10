@@ -65,9 +65,9 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CSE 3232 - Software Requirement Analysis (Ohio State) </a>
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CSE 3241 - Introduction To Databases (Ohio State) </a>
 - <a href="https://github.com/mtwbusiness102/DS-2"> ACCTMIS 3620 - Foundation of Information Systems (Ohio State) </a>
-- <a href="https://github.com/mtwbusiness102/DS-2"> ACCTMIS 4620 - XXX (Ohio State) </a>
 - <a href="https://github.com/mtwbusiness102/4630LAB1"> ACCTMIS 4630 - Business Systems App Development (Ohio State) </a>
 - <a href="https://github.com/mtwbusiness102/DS-2"> ACCTMIS 4650 - XXX (Ohio State) </a>
+- <a href="https://github.com/mtwbusiness102/DS-2"> ACCTMIS 4660 - XXX (Ohio State) </a>
 - <a href="https://github.com/mtwbusiness102/DS-2"> CYB102 - Intermediate Cybersecurity (CodePath) - XXX </a>
 <!-- - <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> BuckeyeCTF 2025 </a> -->
 
