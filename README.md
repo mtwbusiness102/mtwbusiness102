@@ -29,7 +29,7 @@ I'm a fourth-year student at The Ohio State University's Max M. Fisher College o
 
 Feel free to reach me at mtwbusiness102@outlook.com
 
-
+<!--
 ### --- My Portfolio Website ---
 
 https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO ALL PROJECTS: FOR CODE PROJECTS, SHOW WEBPAGE. FOR CYBERSECURITY, Show Proper Documentation With Screenshots--> 
@@ -38,7 +38,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 <!-- ### Fun Facts --> 
 
    
-
+<!--
 # 👨🏽‍💻 PROJECTS
 
 
