@@ -46,7 +46,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
 
 ###  --- Personal Projects --- 
-- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Personal SIEM </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Personal SIEM (Wazuh) </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory and Group Policies </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Vulnerability Scanner </a>
 
@@ -78,9 +78,13 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 <!-- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> BuckeyeCTF 2025 </a>
 <!-- - <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> BuckeyeCTF 2025 </a> -->
 
-<!--
+
 ###  --- Certifications ---  
-- <a href="https://github.com/mtwbusiness102/DS-2"> Security+ </a>
+- <a href="https://github.com/mtwbusiness102/DS-2"> Security+ (In Progress) </a>
+- <a href="https://github.com/mtwbusiness102/DS-2"> Server+ (In Progress) </a>
+- <a href="https://github.com/mtwbusiness102/DS-2"> CCNA (In Progress) </a>
+
+<!--
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CCNA </a>
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> AZ-500 </a>
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> AZ-700 </a>
