@@ -60,8 +60,6 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 -->
 
 ###  --- Class Projects ---  
-- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CSE 1223 - Introduction To Java Programming (Ohio State) </a>
-- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CSE 2123 - Data Structures Using Java (Ohio State) </a>
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CSE 3232 - Software Requirement Analysis (Ohio State) </a>
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CSE 3241 - Introduction To Databases (Ohio State) </a>
 - <a href="https://github.com/mtwbusiness102/DS-2"> ACCTMIS 3620 - Foundation of Information Systems (Ohio State) </a>
