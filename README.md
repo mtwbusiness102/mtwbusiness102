@@ -88,6 +88,17 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 - <a href="https://github.com/mtwbusiness102/DS-2"> Network+ (In Progress) </a>
 - <a href="https://github.com/mtwbusiness102/DS-2"> Server+ (In Progress) </a>
 
+
+
+# CERTIFICATIONS
+
+###  --- Personal Projects --- 
+- <a href="https://github.com/mtwbusiness102/DS-2"> Security+ (In Progress) </a>
+- <a href="https://github.com/mtwbusiness102/DS-2"> Network+ (In Progress) </a>
+- <a href="https://github.com/mtwbusiness102/DS-2"> Server+ (In Progress) </a>
+
+
+
 <!--
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> CCNA </a>
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> AZ-500 </a>
