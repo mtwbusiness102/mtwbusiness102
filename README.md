@@ -76,10 +76,10 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
 
 
-###  --- University Event Projects ---  
+<!--  ###  --- University Event Projects ---  
 - <a href="https://github.com/mtwbusiness102/DS-2"> BDAA Data Science Project </a>
 - <a href="https://github.com/mtwbusiness102/HACKOHIO12"> Hackathon 2025 </a>
-<!-- <a href="https://github.com/mtwbusiness102/HACKOHIO12"> BuckeyeCTF 2025 </a>
+<a href="https://github.com/mtwbusiness102/HACKOHIO12"> BuckeyeCTF 2025 </a>
 <!-- - <a href="https://github.com/mtwbusiness102/BUCKEYE-CTF-2025"> BuckeyeCTF 2025 </a> -->
 
 
