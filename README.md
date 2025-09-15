@@ -60,7 +60,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 -->
 
 ###  --- Class Projects ---  
-- <a href="https://github.com/mtwbusiness102/CSE3232project"> CSE 3232 - Software Requirement Analysis </a>
+- <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECT"> CSE 3232 - Software Requirement Analysis </a>
 - <a href="https://github.com/mtwbusiness102/CSE-3241-PROJECT"> CSE 3241 - Introduction To Databases </a>
 - <a href="https://github.com/mtwbusiness102/DS-2"> ACCTMIS 3620 - Foundation of Information Systems </a>
 - <a href="https://github.com/mtwbusiness102/ACCTMIS-4650-PROJECT"> ACCTMIS 4650 - Decision Support Systems </a>
