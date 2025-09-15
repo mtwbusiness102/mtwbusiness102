@@ -46,7 +46,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
 
 ###  --- Personal Projects --- 
-- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SIEM (Wazuh) </a>
+- <a href="https://github.com/mtwbusiness102/SIEM-PROJECT"> SIEM (Wazuh) </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Data Breach Anaylsis </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Vulnerability Scanner (Tenable Nessus) </a>
 
