@@ -46,7 +46,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
 
 ###  --- Personal Projects --- 
-- <a href="https://github.com/mtwbusiness102/SIEM-PROJECT"> SIEM (Wazuh) </a>
+- <a href="https://github.com/mtwbusiness102/SIEM-PROJECT"> SOC Automation Project </a>
 - <a href="https://github.com/mtwbusiness102/BDAA-DATA-SCIENCE-PROJECT"> Data Breach Anaylsis (BDAA) </a>
 - <a href="https://github.com/mtwbusiness102/VULNERABILTY-SCANNER"> Vulnerability Scanner (Tenable Nessus) </a>
 
