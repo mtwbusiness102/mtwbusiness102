@@ -87,7 +87,6 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
 - Security+ (In Progress)
 - Network+ (In Progress)
-- Server+ (In Progress)
 
 
 
