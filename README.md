@@ -58,7 +58,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Network Analysis Lab </a>
 
 -->
-
+<!--
 ###  --- Class Projects ---  
 - <a href="https://github.com/mtwbusiness102/CSE-3232-PROJECT"> CSE 3232 - Software Requirement Analysis </a>
 - <a href="https://github.com/mtwbusiness102/CSE-3241-PROJECT"> CSE 3241 - Introduction To Databases </a>
@@ -75,7 +75,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 -->
 
 
-
+<!--
 ###  --- University Event Projects ---  
 - <a href="https://github.com/mtwbusiness102/DS-2"> BDAA Data Science Project </a>
 
