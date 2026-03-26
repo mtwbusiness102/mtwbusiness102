@@ -87,8 +87,8 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
 # CERTIFICATIONS
 
-- Security+ (In Progress)
-- Network+ (In Progress)
+- Security+
+- Cetified Cisco Network Associate
 
 
 
