@@ -46,8 +46,7 @@ https://mtwbusiness102.github.io/Portfolio-Website/ <!-- THIS WILL STILL LINK TO
 
 
 ###  --- Personal Projects --- 
-- <a href="https://github.com/mtwbusiness102/SIEM-PROJECT"> Active Directory Project </a>
-- <a href="https://github.com/mtwbusiness102/BDAA-DATA-SCIENCE-PROJECT"> Security Home Lab </a>
+- <a href="https://github.com/mtwbusiness102/BDAA-DATA-SCIENCE-PROJECT"> AD Homelab </a>
 - <a href="https://github.com/mtwbusiness102/VULNERABILTY-SCANNER"> Vulnerability Scanner (Tenable Nessus) </a>
 - <a href="https://github.com/mtwbusiness102/VULNERABILTY-SCANNER"> IT Infrastructure Network </a>
 
